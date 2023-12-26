@@ -115,6 +115,10 @@ The system provides the following API endpoints:
 - PUT /attendance/:id: Update a specific attendance record by ID.
 - DELETE /attendance/:id: Delete a specific attendance record by ID.
 
+## Testing
+
+The collection test is in the `Gakko.postman_collection.json` file.
+
 <img src="https://i.ibb.co/tpqDyjC/Gakko.png">
 
 # Nuxt 3 Minimal Starter
